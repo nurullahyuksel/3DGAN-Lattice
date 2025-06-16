@@ -1,4 +1,4 @@
-# 3DGAN-Lattice
+# 3DGAN
 
 3DGAN Updated for 3D Lattice Generation
 This repository contains a simplified version of the code used in our study, based on an updated version of a 3DGAN repository tailored for 3D lattice generation. We express our gratitude to the [original repository's author](https://github.com/xchhuang/simple-pytorch-3dgan.git) for their foundational work. 
